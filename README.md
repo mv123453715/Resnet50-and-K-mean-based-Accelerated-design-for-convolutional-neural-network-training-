@@ -18,6 +18,4 @@ AOI 瑕疵分類資料集為例，透過本方法可剔除73.6 %訓練資料，�
 
 3.設定Loss Function, Optimizer, Learning rate, Epochs
 
-4.訓練 2228 張圖片與使用ResNet50和、k-mean後訓練 250 張圖片，提升訓
-
-練速度3.79倍，準確度相同。
+4.訓練 2228 張圖片與使用ResNet50和、k-mean後訓練 600 張圖片，提升訓練速度3.79倍，準確度相同。
